@@ -5,7 +5,6 @@ pandas
 matplotlib
 nltk
 textblob
-gingerit
 opencv-python
 numpy
 langchain

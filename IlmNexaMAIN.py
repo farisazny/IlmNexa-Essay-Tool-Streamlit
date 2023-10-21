@@ -57,9 +57,15 @@ if selected == "Home":
     import streamlit as st
 
     def main():
+        path = os.path.dirname(__file__)
+        my_file1 = path+'/Main Page.jpg'
+        st.image(my_file1)
         
-        st.image("Main Page.jpg")
-        st.image("Main Page 2.jpg")
+
+        path = os.path.dirname(__file__)
+        my_file1 = path+'/Main Page 2.jpg'
+        st.image(my_file1)
+        
         st.title("☕️ About IlmNexa")
 
         st.markdown(

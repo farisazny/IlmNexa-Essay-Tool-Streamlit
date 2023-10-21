@@ -1,0 +1,37 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>student_essay1.png</filename>
+    <path>C:\Users\faris\Desktop\NLP Projects\IlmNexa V2\img_dir\student_essay1.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>668</width>
+        <height>520</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Should add more elaboration</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>233</ymin>
+            <xmax>649</xmax>
+            <ymax>299</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Emphasize on the importance</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>134</xmin>
+            <ymin>327</ymin>
+            <xmax>370</xmax>
+            <ymax>359</ymax>
+        </bndbox>
+    </object>
+</annotation>

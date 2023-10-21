@@ -1,0 +1,13 @@
+streamlit
+PyPDF2
+regex
+pandas
+matplotlib
+nltk
+textblob
+gingerit
+opencv-python
+numpy
+langchain
+easyocr
+pytesseract
